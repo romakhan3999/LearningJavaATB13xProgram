@@ -2,7 +2,7 @@ package Coding_Challenge1;
 
 import java.util.Scanner;
 
-public class Challenge_7 {
+public class Challenge__7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the First Integer Value : ");
