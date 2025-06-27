@@ -8,7 +8,7 @@ public class Interview_Vowels {
 //          pramod -> a, i, e, o, u -> V - 2, C - 4
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter String: ");
-        String input = sc.next();
+        String input = sc.nextLine();
 //        char cc = input.charAt(0);
 
 //        String input = "Java Program to Count Vowels and Consonants";
